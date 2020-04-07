@@ -1,0 +1,17 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {part}{Parte\ I\hskip \betweenumberspace Lore}{1}% 
+\contentsline {chapter}{\numberline {1}Colazione}{3}% 
+\contentsline {chapter}{\numberline {2}Pranzo}{5}% 
+\contentsline {chapter}{\numberline {3}Cena}{7}% 
+\contentsline {chapter}{\numberline {4}Spuntino}{9}% 
+\contentsline {part}{Parte\ II\hskip \betweenumberspace Fede}{11}% 
+\contentsline {chapter}{\numberline {5}Colazione}{13}% 
+\contentsline {chapter}{\numberline {6}Pranzo}{15}% 
+\contentsline {chapter}{\numberline {7}Cena}{17}% 
+\contentsline {chapter}{\numberline {8}Spuntino}{19}% 
+\contentsline {part}{Parte\ III\hskip \betweenumberspace Arme}{21}% 
+\contentsline {chapter}{\numberline {9}Colazione}{23}% 
+\contentsline {chapter}{\numberline {10}Pranzo}{25}% 
+\contentsline {chapter}{\numberline {11}Cena}{27}% 
+\contentsline {chapter}{\numberline {12}Spuntino}{29}% 
