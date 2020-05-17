@@ -1,5 +1,6 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
+<<<<<<< HEAD
 \contentsline {part}{Parte\ I\hskip \betweenumberspace Lore}{1}% 
 \contentsline {chapter}{\numberline {1}Colazione}{3}% 
 \contentsline {chapter}{\numberline {2}Pranzo}{5}% 
@@ -27,3 +28,35 @@
 \contentsline {chapter}{\numberline {12}Cena}{29}% 
 \contentsline {section}{\numberline {12.1}Pollo al curry}{29}% 
 \contentsline {chapter}{\numberline {13}Spuntino}{31}% 
+=======
+\contentsline {part}{Parte\ I\hskip \betweenumberspace Lore}{1}%
+\contentsline {chapter}{\numberline {1}Colazione}{3}%
+\contentsline {chapter}{\numberline {2}Pranzo}{5}%
+\contentsline {section}{\numberline {2.1}Gnocchetti alla romana}{5}%
+\contentsline {chapter}{\numberline {3}Cena}{7}%
+\contentsline {chapter}{\numberline {4}Spuntino}{9}%
+\contentsline {chapter}{\numberline {5}Dolci}{11}%
+\contentsline {section}{\numberline {5.1}Pastiera Napoletana}{11}%
+\contentsline {subsection}{\numberline {5.1.1}Ingredienti}{11}%
+\contentsline {subsubsection}{Per la pasta frolla:}{11}%
+\contentsline {subsubsection}{Per la crema:}{11}%
+\contentsline {subsection}{\numberline {5.1.2}Procedimento}{11}%
+\contentsline {subsubsection}{Per la pasta frolla}{11}%
+\contentsline {subsubsection}{Per la crema}{12}%
+\contentsline {subsubsection}{Assemblaggio e cottura}{12}%
+\contentsline {part}{Parte\ II\hskip \betweenumberspace Fede}{13}%
+\contentsline {chapter}{\numberline {6}Colazione}{15}%
+\contentsline {section}{\numberline {6.1}Il Caffè}{15}%
+\contentsline {chapter}{\numberline {7}Pranzo}{17}%
+\contentsline {section}{\numberline {7.1}Carbonara}{17}%
+\contentsline {subsection}{\numberline {7.1.1}Ingredienti}{17}%
+\contentsline {subsection}{\numberline {7.1.2}Procedimento}{18}%
+\contentsline {chapter}{\numberline {8}Cena}{19}%
+\contentsline {section}{\numberline {8.1}Vellutate}{19}%
+\contentsline {chapter}{\numberline {9}Spuntino}{21}%
+\contentsline {part}{Parte\ III\hskip \betweenumberspace Arme}{23}%
+\contentsline {chapter}{\numberline {10}Colazione}{25}%
+\contentsline {chapter}{\numberline {11}Pranzo}{27}%
+\contentsline {chapter}{\numberline {12}Cena}{29}%
+\contentsline {chapter}{\numberline {13}Spuntino}{31}%
+>>>>>>> cd39c3a6d5eadf71702cff0617fdfe54cfa33d9e
